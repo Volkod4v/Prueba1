@@ -1,0 +1,1725 @@
+<REAPER_PROJECT 0.1 "6.55/win64" 1676044617
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 278.86532047290098 0 0
+  VZOOMEX 4 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 7 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 148 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 3.22976409725477 0
+  SELECTION2 3.22976409725477 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {66DBCB63-FC83-400D-8E9A-C1C34D303276}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {D1E18910-B8CC-460E-8567-726607E3211B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {AC567732-BDB3-4185-88E9-CB0B4AF0F010}
+    NAME "Unit Rcrds - Kick 26"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AC567732-BDB3-4185-88E9-CB0B4AF0F010}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 839 523
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: OrilRiver (Denis Tihanov)" OrilRiver.dll 0 "" 1953983342<D6FAE8EBF87044EF9AAB360BB521FC19> ""
+        bmt3dO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAAAABAA
+        pwAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAA8D+amZmZmZm5PwAAAAAAAPA/AAAAwHXeuT+amZmZmZnJP5qZmZmZmek/mpmZmZmZ6T+RQw6b2DfsP9hl5JiCVNo/
+        AAAAAAAA4D+wkf4W9wHhPwAAAAAAAOA/cBFBJwSH5T8AAAAAAAAAAAAAAAAAAPA/AAAAAAAA8D8AAAAAAADgPwIBAAAAAAAzMzMzMzPTP5ZDi2zn+9k/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DE53E2E7-0ED6-44C3-942C-D8A11C556FEC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaFir (FFT EQ+Dynamics Processor) (Cockos)" reafir.dll 0 "" 1919247986<56535472656672726561666972202866> ""
+        cmZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAYAAAAAEAAAAAABAA
+        nBIAAAAAtMIAAMBBABAAAAAAgD8AAAAAAgAAAAMAAADXOb9DAAAAAKUrSEUAAAAA3tVkRPEVvcEAAAAAAAAAAK1VAzwAAIA/s6IEOAAAAD4AAAAAAAAAAAIAAAAAAIA/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {22891C25-24F4-4498-B6CC-CC9BBC52720F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.38775510204082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70ECE8F0-ED84-43E6-BE72-FB9B89308F4F}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2F22A13-D999-4E62-8B3E-C557C4B1220A}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.40540540540541
+      SNAPOFFS 0
+      LENGTH 0.38775510204082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C0D5E8C-35DD-4ABA-8D61-11F76907093E}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD24876B-7210-4E83-AA0A-E62902E05BAD}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.81081081081081
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2186561E-D15D-4F44-834A-4986F7F2F1A5}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {695D1BF4-E82B-40D1-8D90-0AF6B2B6CE05}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.21621621621622
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BC3A7AD-3B9D-4602-A01F-36111DFB157F}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6A22994-082E-4035-9343-7AF2CD1CA3C6}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.62162162162162
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AA768C3-87BB-4832-B008-B94235897AB8}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {300FF1C1-658E-4596-BEAE-394BB00EDC7C}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.02702702702703
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90524E6F-436F-43D4-BE39-07135322B622}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B9FB3C6-A330-4BD4-A520-74ADECEDD5D6}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.43243243243243
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {811C9464-43AD-4561-B2CC-D5F658071E06}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA25BD8F-FFDB-42D9-AAE8-DD96D9BD4224}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.83783783783784
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {038B29FE-ECCC-4A2C-9B3C-1308A95B086C}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {985B0264-1EF6-4543-BF42-755B77AD022E}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.24324324324324
+      SNAPOFFS 0
+      LENGTH 0.38775510204082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78AD3B1F-D402-450B-93E6-42EF15BB6BE8}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8765EBC0-3A0B-4903-8D3F-FF2533E47B04}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.64864864864865
+      SNAPOFFS 0
+      LENGTH 0.38775510204082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4636923A-29BF-43FE-A6CD-B5F23432DC4D}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E8A5A76-AB55-46A7-B55F-8B128B40DB5B}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.05405405405405
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0A1CA45-EA2A-4194-A7FD-80D0E6805BC5}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D108A59-F747-4FBB-9B70-F576433D3FE5}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.45945945945946
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D2EC62A-A7BB-47B1-A0BB-8122855584D9}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09219DE-7E1F-484E-BA8A-92303C135EAD}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.86486486486486
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E13FB90-5A05-4CCB-8E09-CB58D0460D51}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {619DE526-E7AE-469E-93E6-BDBE0A0C9CD3}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.27027027027027
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF72FD1B-13D3-41E0-8EF3-0E5C0EDEC240}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11A30225-C688-4BEA-86B2-AC5F995E3E96}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.67567567567568
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F1F89B7-2D62-4004-90DF-CBA4E8D03A83}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B3963B5-CD9F-4DEA-B28F-BA73B1AB699A}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.08108108108108
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {162E7D63-101E-4F40-B837-C84957A99DF5}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02658479-A3EA-42E8-9482-96635471E8EA}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.47054605629622
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31529226-F432-4A88-97BA-982AD3260BC3}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333336 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74704898-AD5F-448B-883A-04292304FF8F}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.87595146170163
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26351D68-6986-4D80-9FF3-EB179864C91F}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCF4DA95-48EC-40E9-B76E-B311F2D3065B}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.28135686710703
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9273ED5B-BD43-42BD-B9C0-6F7D8D4C8E17}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D471A4D-FB7E-473F-8A34-66082EE8BE37}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.68676227251244
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A7F691E-43B1-4905-BAB0-DD82CB80EAA2}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333332 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {519B186E-64B3-4F05-9DF3-D43317E1F8CF}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.09216767791784
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E4394F7-8A30-4CBE-8832-1CB1CD3B6131}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E177693-7E8C-4A9C-8B05-5E6954BA05CD}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.49757308332325
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED4E3228-068E-49B5-AC89-FCECBAFFEB43}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAE4E0BA-9285-4B29-840D-A3B4D1603CE5}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.90297848872865
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF484A26-4B63-492C-B7DB-E90267F16BC5}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5010574-5607-4F7A-BB53-5D17867E84D5}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.30838389413406
+      SNAPOFFS 0
+      LENGTH 0.38775510204081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C92100E9-5222-4CEA-83DE-649D2C4A9A51}
+      IID 80
+      NAME "Unit Rcrds - Kick 26.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333332 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F64C4388-81F9-47CC-BBEF-DA4348E3E1A3}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Kicks\Unit Rcrds - Kick 26.wav"
+      >
+    >
+  >
+  <TRACK {B11E4C04-113F-4F11-8334-1845B4603DDF}
+    NAME "Unit Rcrds - Clap 6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B11E4C04-113F-4F11-8334-1845B4603DDF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: OrilRiver (Denis Tihanov)" OrilRiver.dll 0 "" 1953983342<D6FAE8EBF87044EF9AAB360BB521FC19> ""
+        bmt3dO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAAAABAA
+        pwAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAA8D+amZmZmZm5PwAAAAAAAPA/AAAAAClm0D+amZmZmZnJPwAAAEBSuM4/mpmZmZmZ6T8AAAAgVeDdP9hl5JiCVNo/
+        AAAAAAAA4D+wkf4W9wHhPwAAAAAAAOA/cBFBJwSH5T8AAAAAAAAAAAAAAAAAAPA/AAAAwDAM4z8AAAAAAADgPwIBAAAAAAAzMzMzMzPTP5ZDi2zn+9k/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EE630DF2-20E0-4F7A-892A-47484D5E3ABA}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0.40540540540541
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21C22973-FDE5-45B7-B715-85F5857B2B44}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1F92027-E948-48D3-87E3-E019DE3D281A}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.21621621621622
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2602B65B-C154-4FBF-9F52-9314042E76CB}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C74059C-C138-403A-97B8-554F9809EF0C}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.02702702702703
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7F03C21-CFBF-4546-AE9C-647CFAA0E7D9}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C20B553-16F1-4D77-A7D4-0FDADEB55415}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.83783783783784
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30F2999E-8407-44EA-B9BA-A951FAD5ADD7}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9750CCC-143A-4C19-BF2F-3B26A3B29EC2}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.64864864864865
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA37D661-2583-4227-9EFE-0D5FEDD8F50E}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFD2C5ED-FA25-41BD-8CB8-31C6390AF46A}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.45945945945946
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D3D40E0-BA37-44DB-8F6E-A9D932EF27A1}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9DC01A2-4CCF-4949-8F64-15848831D4F4}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.27027027027027
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50ED3242-A90E-484F-B916-486B322508F8}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26C7D6D5-1C81-4803-BD3F-AE3917A58F28}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.08108108108108
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6225E26F-950D-46C5-A93E-91D01082327C}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {166DB287-8301-4199-BBF5-B9DB20EA9200}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.8918918918919
+      SNAPOFFS 0
+      LENGTH 0.38946497517925
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B6B0355-B363-407B-BB9E-000B4754083E}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13DB5882-4F37-4A30-8778-91B17AB1D574}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.7027027027027
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAEF085B-04BE-4693-9F25-04A51904DA6C}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {009B9494-1A96-4926-ACA0-193D5A8F3218}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.51351351351351
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63B9A8C8-8C40-4FBA-BBCE-5DF708F0A292}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9B3B151-B317-44F2-B3CF-78DC99BAEC48}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.32432432432432
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3906695-241B-4F2F-9E25-ACC7F2CF4551}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F31710CC-BD2C-406C-93D1-7BF134D8AC96}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.13513513513514
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7CB3C43-AC36-4EE3-BFB8-EDE854374148}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E52BE274-5D39-4682-919B-4FE4537C39C6}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.94594594594595
+      SNAPOFFS 0
+      LENGTH 0.38946497517925
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7515391-4193-41B0-8774-A7FEE1776402}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333335 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07082DEF-5490-484C-9E9E-F030977F4C61}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.75675675675675
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99BBA899-38B9-48BC-86BC-DF70CBEDC88D}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6112937E-73FC-4176-BD80-2C1212DC4019}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.56756756756756
+      SNAPOFFS 0
+      LENGTH 0.38946497517926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D66E54A4-5EAD-4BF7-A30D-29A60F506AAF}
+      IID 88
+      NAME "Unit Rcrds - Clap 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA6082AC-E5A4-459F-86C0-945BB186AEED}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Claps\Unit Rcrds - Clap 6.wav"
+      >
+    >
+  >
+  <TRACK {EDFE83D5-169C-467F-8A89-EFCF7B7F6F4B}
+    NAME "Unit Rcrds - Hi-Hat 7"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EDFE83D5-169C-467F-8A89-EFCF7B7F6F4B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: OrilRiver (Denis Tihanov)" OrilRiver.dll 0 "" 1953983342<D6FAE8EBF87044EF9AAB360BB521FC19> ""
+        bmt3dO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAAAABAA
+        pwAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAA8D+amZmZmZm5PwAAAAAAAPA/AAAAYP3kxT+amZmZmZnJP5qZmZmZmek/mpmZmZmZ6T+RQw6b2DfsP9hl5JiCVNo/
+        AAAAAAAA4D+wkf4W9wHhPwAAAAAAAOA/cBFBJwSH5T8AAAAAAAAAAAAAAAAAAPA/AAAAALdtyz8AAAAAAADgPwIBAAAAAAAzMzMzMzPTP5ZDi2zn+9k/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3949FA49-5FAC-4F54-A556-0634A122E30C}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0.18260150373172
+      SNAPOFFS 0
+      LENGTH 0.24559661702519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DD888330-96BD-49F1-AA70-A93AE48FEE4F}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEB684AE-DBCF-4491-92A8-62A6E84ABFAD}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.58800690913712
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {ABA383AE-4EB1-49DA-9DED-6CECD77F1599}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12C6E64F-47F1-4721-B96A-4782266EA32D}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.99341231454253
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2B2305F6-6848-4B56-BC9C-EA234410CB48}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8DA35C0-E694-42D1-B190-C3F9B62EAA5B}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.39881771994793
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A9195551-A540-455D-9643-7DD55E03849B}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73A90453-3CAC-4DAC-9E71-DC20585C6F3D}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.80422312535335
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7B4B0180-C45A-4DBB-8978-5D76412C46EF}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {579A5D21-FEF2-46C2-BF65-10A65E621E9E}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.20962853075875
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {845D3DD6-E412-4595-A79A-6F22AC2C44FE}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED1D10AF-2631-4940-B469-73E0136ADFCB}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.61503393616416
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6E3D1C8F-71CC-4123-A7A2-4C77674D23F8}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7D131DC-A61E-4121-8AEB-67C33CF6DFA3}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.02043934156956
+      SNAPOFFS 0
+      LENGTH 0.24559661702519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DA92A65A-B18F-49B2-93FC-37E5B048F501}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333332 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF9D7386-C8C3-4229-AB00-2B4D69F571DE}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.83688424377249
+      SNAPOFFS 0
+      LENGTH 0.24559661702519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8A98653-B3F7-489F-902D-2EC4588C0685}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333332 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A3426FF-7EAB-4494-B465-81C5FCFFE2EA}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.24228964917789
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA2C31A9-8865-4765-A4D2-5CB05821F622}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E9CB86F-9CE2-44CC-8D39-4F5E235EBD40}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.6476950545833
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73FE3586-16A5-49ED-8A62-A315BB22F7AB}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94AE787B-0809-481C-9ACE-DCB259856D96}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.0531004599887
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02053957-37D3-42B6-A2C3-8C7FBBE7D027}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D924119C-252E-421F-8341-FB3701A46129}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.45850586539411
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98D9B160-9955-4881-B456-8B01A81CE271}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A820E87B-6DFB-46D4-A75B-E4FE915AB0E8}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.86391127079952
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56A8A650-5ACF-4446-8B7B-BE4D8D1312B7}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25F95F3C-9ADA-40E0-9355-804546941091}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.65878165142007
+      SNAPOFFS 0
+      LENGTH 0.24559661702519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1174B3D-E9C1-4FED-81A5-F42BFBC65E22}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333337 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACF2B8BC-A9EB-4567-918B-6E7C47518C6F}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.06418705682547
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1EE621D-E530-4FED-B240-5C772F3FDE90}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2719C9AB-FB20-471C-80E7-5BB8A2E58DE7}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.46959246223088
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8498F7E9-5C0A-49D0-89BA-81A79DFA9FE7}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D31796C-956D-4BE3-BC3E-CC7D9A9F2418}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.87499786763628
+      SNAPOFFS 0
+      LENGTH 0.24559661702519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D38DEF1F-1A3A-41DB-980D-2889993A7ED8}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333332 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C468B05A-D3AE-4869-95B4-5EA264443677}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.28040327304169
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD717FEE-42B1-4C80-8C7B-86E988803CEC}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD8D0602-3953-4542-968A-B76BF3BE8F97}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.68580867844709
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F2FC8D8-6E27-4525-8401-B9C84CF8F6C3}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333333 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D35CD37-3CBF-4CA6-AA4B-E18940A2E22A}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.0912140838525
+      SNAPOFFS 0
+      LENGTH 0.24559661702518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008108 0 1 0 0 0
+      FADEOUT 1 0.008108 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD9455B8-4A72-494B-8E01-BD20777004A6}
+      IID 92
+      NAME "Unit Rcrds - Hi-Hat 7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.23333333333334 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF2FA605-7285-4186-A2B0-690F4E4158A7}
+      <SOURCE WAVE
+        FILE "D:\Backup\Reaper y Vsts\Canciones y pistas\SAMPLES\Unit Rcrds - Grind Free Tech-House Sample Pack\Drums\Hi-Hats\Unit Rcrds - Hi-Hat 7.wav"
+      >
+    >
+  >
+  <TRACK {22E60266-553D-42F6-907A-EC2F00330909}
+    NAME LegacyCell
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.65265226072288 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 1 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {22E60266-553D-42F6-907A-EC2F00330909}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 506 258
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: MonoPoly (x86) (KORG)" MonoPoly.dll 0 "" 1263291728<5653544B4C4D506D6F6E6F706F6C7920> ""
+        UE1MS+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABYKQAAAQAAAAEAEAA=
+        IGJ4ZlApAAAAAwABAQAAAFBNTEsAAwABAAAAAAAAAAB4nO3au45dBwGF4QlKQ8EtBeImcKCjsQBRETs4zpBEcWIztiVSgEQDogCkiALR4BpaGniEUNBSUlIk78DtAQCl
+        oGJw7GRh+ZaVZLxMxPdLRzN79syec1bxac/RHBy8t5770Q9+curSyz/+/svf/eF7vNQD7UMP4Jo/v/n4+Xu5xtvt99Pv/fhHBx985JGbR9ee/P1nD2883uWvu/3n3unx
+        Q8tOdU/+9pVXzr7x8bVXLzz5Lo6vd+3G8VvXu+Xxxrlbv37w38+v3ef42i3H127b6sbvutHLn3km3/faq6/e8fXrz/PMndc7OPjtK1/M57/4+ItPXH+cud9Av/zdv87e
+        5/STt7z+Ox5//Os/3noOb2125uCWLe98fV2fezc/VMRnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTH
+        Zz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMd
+        n/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51
+        fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV
+        8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xU
+        x2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JT
+        HZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhO
+        dXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI7
+        1fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vs
+        VMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+y
+        Ux2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzI
+        TnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMi
+        O9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L
+        7FTHZz6fWHzn+yI71fGd74nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98
+        XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7z
+        eZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM
+        50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+Iz
+        nxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nP
+        fF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+
+        83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4
+        zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPi
+        M58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+J
+        z3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4n
+        PvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc
+        +MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz
+        4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3w+sfjO90V2quM7
+        3xOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7P
+        fE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+
+        8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4
+        zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrj
+        M58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amO
+        z3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6
+        PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q
+        +MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq
+        4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mp
+        js98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSn
+        Oj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd
+        6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2
+        quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/l8YvGd74vsVMd3vic+83mRner4zOfEZz4v
+        slMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8
+        yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObz
+        IjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnP
+        i+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+
+        L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5
+        vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm
+        8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZ
+        z4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58Rn
+        Pi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf
+        +bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE58
+        5vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znx
+        mc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfE
+        Zz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvP5xOI73xfZqY7vfE985vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+
+        Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5
+        nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzm
+        c+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZ
+        z4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdn
+        Pic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f
+        +Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV8
+        5nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xx
+        mc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTH
+        Zz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMd
+        n/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51
+        fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV
+        8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xU
+        x2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fObzicV3vi+yUx3f+Z74zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5k
+        pzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mR
+        ner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdF
+        dqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X
+        2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xe
+        ZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5
+        kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+Mzn
+        RXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOf
+        F9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98
+        XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7z
+        eZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM
+        50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+Iz
+        nxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nP
+        fF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznE4vvfF9kpzq+8z3xmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xO
+        fObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM5
+        8ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+Mzn
+        xGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOf
+        E5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98
+        Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7z
+        OfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM
+        58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMz
+        nxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7P
+        fE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+
+        8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4
+        zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrj
+        M58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amO
+        z3xOfObzIjvV8ZnPJxbf+b7ITnV853viM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhO
+        dXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI7
+        1fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vs
+        VMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+y
+        Ux2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzI
+        TnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMi
+        O9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L
+        7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4v
+        slMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnPi+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8
+        yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObz
+        IjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfE5/5vMhOdXzmc+IznxfZqY7PfE585vMiO9Xxmc+Jz3xeZKc6PvM58ZnP
+        i+xUx2c+Jz7zeZGd6vjM58RnPi+yUx2f+Zz4zOdFdqrjM58Tn/m8yE51fOZz4jOfF9mpjs98Tnzm8yI71fGZz4nPfF5kpzo+8znxmc+L7FTHZz4nPvN5kZ3q+MznxGc+
+        L7JTHZ/5nPjM50V2quMznxOf+bzITnV85nPiM58X2amOz3xOfObzIjvV8ZnPic98XmSnOj7zOfGZz4vsVMdnPic+83mRner4zOfEZz4vslMdn/mc+MznRXaq4zOfT6zj
+        m33n+Pjbb376xpcee+L4+Mxx3+c/+YVTn3j8+iefunH46eOvnS1/8vzDHkCSJD2M7nIfeeNe8InrXzhz9epXr9+Hff3s7d9z857wD8d3Pm6/n71Lf3n0I//8958+8Le/
+        f+z1g8cf/eg///25D3z474+9/oBe37vukTf/3Hnrr54H3YXDc0/f7/xT5y5fvt/5yy+9eOXZU8+eO7rHVW6ev3zxG1fufv6Fi1eeu/jiva9/6dzTpy9fOXruxWfu/jSe
+        Orxw4fTTh+fPvXT3nz93dOn05cNv3vP6zz535fT5Zy/e6+kfPH/40ulLF66ef/4e5586uj7Q6aPDw3u9/sPT5y++cOnC4bfufv7po6svnL50eHSve+Krlw+PTp0/d+Xw
+        mYtHL5360tuc//LbnP/KPX6LJJ1M3j9+6O8fv5P3q26/b3qnxw+tB7vTHe/5vW93+s2vf332pN8//vPPfnXL8f/c+8dv/q1w89j7x5Kk90Punx/6/fM76X37fwV2qvP/
+        F/9n98+PvPk4uOVjOn4PF77efwC3fF7c
+        AEluaXQgUHJvZ3JhbQAQAAAA
+      >
+      PRESETNAME "Init Program"
+      FLOAT 56 84 295 211
+      FXID {1BAD6919-61CA-4B0D-8D26-0F3DA38BB7AA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: OrilRiver (Denis Tihanov)" OrilRiver.dll 0 "" 1953983342<D6FAE8EBF87044EF9AAB360BB521FC19> ""
+        bmt3dO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAAAABAA
+        pwAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAA8D+amZmZmZm5PwAAAAAAAPA/1bpMBjcR2D+amZmZmZnJP5qZmZmZmek/mpmZmZmZ6T+RQw6b2DfsP9hl5JiCVNo/
+        AAAAAAAA4D+wkf4W9wHhPwAAAAAAAOA/cBFBJwSH5T8AAAAAAAAAAAAAAAAAAPA/AAAAAAAA8D8AAAAAAADgPwIBAAAAAAAzMzMzMzPTP5ZDi2zn+9k/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E0ADBB1B-34C7-4505-95DF-3127F532760B}
+      WAK 0 0
+    >
+  >
+>
